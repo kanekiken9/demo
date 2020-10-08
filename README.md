@@ -4,4 +4,4 @@ Description!
 
 ## Subheader
 
-Watch tut on yt.
+Watch tut on YT.
